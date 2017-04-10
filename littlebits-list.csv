@@ -1,0 +1,67 @@
+sku,description,retailprice,upc,name,link,producttype,productid
+650-0014,The bend sensor turns on as you flex the long strip.,$15.95,859477003737,bend sensor,http://littlebits.cc/bits/bend-sensor,input,i14 
+650-0110,The slide dimmer is an analog input. Adjust it by moving its lever from side to side.,$9.95,859477003676,slide dimmer,http://littlebits.cc/bits/slide-dimmer,input,i5 
+650-0007,The remote trigger lets you use a common remote control with your Bits.,$11.95,810876020084,remote trigger,http://littlebits.cc/bits/remote-trigger,input, 
+650-0061,The power Bit lets you use a 9-volt battery to supply power to all your connected Bits.,$5.95,810876020329,power ,http://littlebits.cc/bits/littlebits-power,power,p1 
+650-0019,"This Bit has a little lever with a wheel, and activates when something pushes the roller in.",$9.95,859477003898,roller switch,http://littlebits.cc/bits/roller-switch,input,i19 
+650-0008,This Bit lets you connect to up to 8 outputs and control them in sequential patterns.,$35.95,810876020299,Sequencer,http://littlebits.cc/bits/sequencer,input,i22 
+650-0016,The pulse Bit is like an electronic heartbeat. It sends out a stream of short ON signals.,$11.95,859477003843,pulse,http://littlebits.cc/bits/pulse,input,i16 
+650-0108,The pressure sensor is a touch-activated Bit. Give its pad a squeeze to activate it!,$17.95,859477003775,pressure sensor,http://littlebits.cc/bits/pressure-sensor,input,i11 
+650-0063,Connect a USB cable to your computer or phone charger to start powering your inventions.,$9.95,859477003669,usb power,http://littlebits.cc/bits/usb-power,power,p3 
+650-0126,The oscillator creates audio tones that can be manipulated with its pitch nob and tune dial.,$15.95,810876020145,oscillator,http://littlebits.cc/bits/oscillator,input,i31 
+650-0023,The MP3 player allows you to play your very own MP3 files using littleBits.,$49.95,810876020688,MP3 Player,http://littlebits.cc/bits/mp3-player,input,i25 
+650-0132,The mix Bit allows you to combine 2 inputs and send them to a single output.,$17.95,810876020213,mix,http://littlebits.cc/bits/mix,input,i37 
+650-0018,The motion trigger is a sensor that detects the slightest movement around it.,$25.98,859477003614,motion trigger,http://littlebits.cc/bits/motion-trigger,input,i18 
+650-0034,"With the vibration motor Bit, you can make anything vibrate and buzz!",$11.95,859477003812,vibration motor,http://littlebits.cc/bits/vibration-motor,output,o4 
+650-0131,The micro sequencer sends out voltages based on the position of each of the 4 knobs.,$21.95,810876020176,micro sequencer,http://littlebits.cc/bits/microsequencer,input,i36 
+650-0129,This Bit has two modes: “noise” (white noise) and “random voltage” that controls oscillators.,$13.95,810876020152,random,http://littlebits.cc/bits/random,input, 
+650-0021,The microphone Bit translates sound into the electronic language of littleBits.,$15.95,859477003973,microphone,http://littlebits.cc/bits/microphone,input,i21 
+650-0045,Make certain things glow in the dark with this Bit whose light looks purple to the eye.,$9.95,859477003652,uv led,http://littlebits.cc/bits/uv-led,output,o15 
+650-0136,The synth speaker amplifies your sonic explorations.,$19.95,810876020237,synth speaker,http://littlebits.cc/bits/synth-speaker,output,o24 
+650-0041,The servo is a controllable motor that can swing back and forth.,$25.95,859477003591,servo,http://littlebits.cc/bits/servo,output,o11 
+650-0141,The number Bit displays information about the signal it’s receiving from other Bits.,$25.95,810876020701,number,http://littlebits.cc/bits/number-plus,output,o21 
+650-0032,"If you ever wanted an LED in a tiny little space, the long LED is your Bit!",$9.95,859477003690,long led,http://littlebits.cc/bits/long-led,output,o2 
+650-0046,"The light blue light wire is about 4 feet long and can be bent, shaped, sewn, or stapled.",$19.95,859477003577,light wire,http://littlebits.cc/bits/light-wire,output,o16 
+650-0033,The RGB LED Bit is a special light whose color you can adjust.,$9.95,859477003805,rgb led,http://littlebits.cc/bits/rgb-led,output,o3 
+650-0031,The LED (or light-emitting diode) Bit is a very small board that shines a green light.,$7.95,859477003799,led,http://littlebits.cc/bits/led,output,o1 
+650-0113,The IR LED Bit sends out light with longer wavelengths than visible light.,$9.95,810876020015,IR LED,http://littlebits.cc/bits/ir-led,output,o7 
+650-0112,The fan is just what you'd think: a small electric fan tethered to a Bit.,$15.95,859477003713,fan,http://littlebits.cc/bits/fan,output,o13 
+650-0142-001A1,The reversible direct current motor rotates a small shaft you can attach anything to.,$24.95,,DC motor (tethered),http://littlebits.cc/bits/dc-motor-tethered,output, 
+650-0036,Bzzz! The buzzer is like the sound in an alarm clock: it makes a noise you just can't ignore.,$11.95,859477003720,buzzer,http://littlebits.cc/bits/buzzer,output,o6 
+650-0109-001A2,The bargraph is like an equalizer. Get an instant view of the signal going through.,$11.95,859477003782,bargraph ,http://littlebits.cc/bits/bargraph,output,o9 
+650-0087,"The XOR Bit is a logic gate with 2 inputs. Think of it as ""exclusive or.""",$9.95,859477003997,XOR,http://littlebits.cc/bits/xor,wire, 
+650-0044,The bright LED (or light-emitting diode) is a small Bit that puts out a big light.,$9.95,859477003874,bright led,http://littlebits.cc/bits/bright-led,output,o14 
+650-0149-00A01,"Pair this Bit with the wireless transmitter to control your Bits remotely, as if by magic!",$29.95,859477094827,wireless receiver (5 channels),http://littlebits.cc/bits/wireless-receiver-5-channels,wire,w21 
+650-0071,The wire allows you to extend your circuits and put more space between two Bits.,$7.95,859477003867,wire,http://littlebits.cc/bits/wire-bit,wire,w1 
+650-0010,Easily incorporate programming into your inventions with Arduino.,$39.95,810876020282,Arduino,http://littlebits.cc/bits/w6-arduino,wire,w6 
+650-0150-00A01,"Pair this Bit with the wireless receiver, and you’ve got a remote control for your Bits.",$29.95,859477084727,wireless transmitter (5 channels),http://littlebits.cc/bits/wireless-transmitter-5-channels,wire,w22 
+650-0145,The USB I/O Bit allows you to record digital audio directly into your computer.,$34.95,810876020725,USB I/O,http://littlebits.cc/bits/usb-io,wire, 
+650-0085,This logic gate sends an ON signal when neither of its 2 inputs is receiving a signal.,$9.95,859477003959,NOR,http://littlebits.cc/bits/nor,wire, 
+650-0004,The proto Bit is what littleBits engineers use to build and prototype new Bits for you.,$11.95,810876020305,Proto,http://littlebits.cc/bits/proto,wire, 
+650-0086,"The NAND Bit is a logic gate with 2 inputs. Think of it as ""not and.""",$9.95,859477003980,NAND,http://littlebits.cc/bits/nand,wire, 
+650-0144,The perf Bit is an easy way to prototype a circuit for the littleBits collection.,$11.95,810876020596,Perf,http://littlebits.cc/bits/perf,wire, 
+650-0080,Inverter is a very contrary logic Bit. It sends out the opposite of whatever it receives.,$7.95,859477003515,inverter,http://littlebits.cc/bits/inverter,wire,w10 
+650-0078,"Use the latch to turn any momentary input into an on-off switch, like a toggle!",$7.95,859477003935,latch,http://littlebits.cc/bits/latch,wire, 
+650-0146,Send and receive MIDI messages with the MIDI Bit.,$39.95,810876020732,MIDI,http://littlebits.cc/bits/midi,wire,w5 
+650-0077,Connect one output to as many as 3 other Bits to trigger multiple actions at once.,$11.95,859477003553,fork,http://littlebits.cc/bits/fork,wire,w7 
+651-0001,"Turn everyday objects into touchpads, or control your computer's cursor with this Bit.",$49.95,810876020749,Makey Makey,http://littlebits.cc/bits/makey-makey,wire,w14 
+650-0073,Double OR is a logic gate. The output is active if either of its 2 inputs is active.,$9.95,859477003744,double OR,http://littlebits.cc/bits/double-or,wire,w3 
+650-0074,Double AND is a logic gate. It sends an ON signal when its 2 inputs receive an ON signal.,$9.95,859477003751,double AND,http://littlebits.cc/bits/double-and,wire,w4 
+650-0134,The split Bit sends a single input to 2 wired outputs.,$13.95,810876020220,split,http://littlebits.cc/bits/split,wire, 
+650-0147,Integrate your littleBits circuits with other analog synthesizers.,$34.95,810876020718,Control Voltage (CV),http://littlebits.cc/bits/control-voltage,wire, 
+680-0004-0000A,The easiest way to create internet connected devices. Snap the internet to anything!,$59.95,810876020534,cloudBit™,http://littlebits.cc/bits/cloudbit,wire,w20 
+650-0009,Think of the threshold as a toll booth for signal passing through your circuit.,$9.95,810876020664,threshold,http://littlebits.cc/bits/threshold,input,i23 
+650-0072,The branch Bit lets you connect the output of a single Bit to as many as 3 others.,$11.95,859477003560,branch,http://littlebits.cc/bits/branch,wire,w2 
+650-0022,The temperature sensor responds to the temperature surrounding its probe.,$17.95,810876020671,temperature sensor,http://littlebits.cc/bits/temp-sensor,input,i12 
+650-0151-00A01,Control your inventions wirelessly from your iOS or Android device.,$24.95,810876021630,Bluetooth Low Energy (BLE),http://littlebits.cc/bits/bluetooth-low-energy,wire, 
+650-0017,The timeout Bit is a settable timer.,$11.95,859477003621,timeout,http://littlebits.cc/bits/timeout,input,i17 
+650-0020,The sound trigger sends an ON signal when the noise gets over a certain level.,$11.95,859477003539,sound trigger,http://littlebits.cc/bits/sound-trigger,input,i20 
+650-0001,The slide switch is a small and convenient way to turn your creations on and off.,$9.95,859477003768,slide switch,http://littlebits.cc/bits/slide-switch,input,i1 
+650-0111,The light sensor measures how much light is shining on it. It has 2 modes: light & dark.,$11.95,859477003706,light sensor,http://littlebits.cc/bits/light-sensor,input,i13 
+650-0125,The Keyboard features 13 switches that make an octave of notes so you can play melodies.,$19.95,810876020169,keyboard,http://littlebits.cc/bits/keyboard,input,i30 
+650-0127,The filter affects a note's timbre by changing the relative volume of certain frequencies.,$17.95,810876020190,filter,http://littlebits.cc/bits/filter,input,i32 
+650-0128,The envelope modifies the loudness contour of a sound.,$17.95,810876020183,envelope,http://littlebits.cc/bits/envelope,input, 
+650-0122-001A2,The dimmer Bit lets you control your creations with a simple knob.,$7.95,859477003836,dimmer,http://littlebits.cc/bits/dimmer,input,i6 
+650-0130,"The littleBits delay Bit takes incoming audio and repeats it, like an echo.",$15.95,810876020206,delay,http://littlebits.cc/bits/delay,input,i35 
+650-0003,"You've used a button before! This is a clicker, tact switch, etc...",$7.95,859477003829,button,http://littlebits.cc/bits/button,input,i3 
+650-0002,The toggle switch is perfect for those inventions where you want a sturdy on-off switch.,$9.95,859477003584,toggle switch,http://littlebits.cc/bits/toggle-switch,input,i2 

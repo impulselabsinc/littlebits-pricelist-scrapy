@@ -10,7 +10,7 @@ class lbSpider(scrapy.Spider):
     # automatically quotes strings with commas so need to mess with delimiters
     custom_settings = {
             'FEED_FORMAT': 'csv',
-            'FEED_URI': 'allbits.csv'
+            'FEED_URI': 'littlebits-list.csv'
             }
 
     allowed_domains = ['littlebits.cc']

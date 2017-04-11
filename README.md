@@ -4,7 +4,7 @@ You will need to install Python and Scrapy (pip install scrapy) if you don't alr
 
 ## Usage
 
-To get a list of bits (creates a file called 'allbits.csv') -
+To get a list of bits (creates a file called 'littlebits-list.csv') -
 ```sh
 scrapy runspider lb.py
 ```
